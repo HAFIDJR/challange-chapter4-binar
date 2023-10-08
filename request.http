@@ -1,0 +1,64 @@
+### Users TEST
+POST http://localhost:3000/api/v1/users
+Content-Type: application/json
+
+{
+    "name":"ismi",
+    "email":"ismi@mail.com",
+    "password":"123",
+    "gender":"P",
+    "identityNumber":100629,
+    "address":"Surabaya"
+
+}
+
+###
+GET http://localhost:3000/api/v1/users
+
+###
+GET http://localhost:3000/api/v1/users/3
+
+### End Users TEST
+
+###===================================###
+
+### Account TEST
+
+POST http://localhost:3000/api/v1/accounts
+Content-Type: application/json
+
+{
+    "bankName":"VISA",
+    "userId":3,
+    "balance":90000
+
+}
+
+### 
+GET http://localhost:3000/api/v1/accounts
+
+###
+GET http://localhost:3000/api/v1/accounts/3
+
+###
+### End Account TEST
+
+
+### Transactions TEST
+###
+POST http://localhost:3000/api/v1/transaction
+Content-Type: application/json
+
+{
+    "senderId":1,
+    "destinationId":9,
+    "amount":1000
+
+}
+###
+GET http://localhost:3000/api/v1/transaction 
+
+###
+GET http://localhost:3000/api/v1/transaction/1
+
+### End Transactions TEST
