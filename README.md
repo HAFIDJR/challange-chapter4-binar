@@ -79,11 +79,11 @@ juga pengirim dan penerimanya).<br>
    <img width="411" alt="image" src="https://github.com/HAFIDJR/challange-chapter4-binar/assets/99538056/89956f93-f272-4b9d-8e93-48385411b5bd">
    <br>
    
-   <li>Menampilkan Users Detail </li>
-   <img width="411" alt="image" src="https://github.com/HAFIDJR/challange-chapter4-binar/assets/99538056/22173db2-6c78-4917-845d-f893437322d1">
+   <li>Menampilkan Account Detail </li>
+   <img width="411" alt="image" src="https://github.com/HAFIDJR/challange-chapter4-binar/assets/99538056/03fbe868-c6af-4b61-a0ac-2572f19a7823">
    <br>
-   <img width="411" alt="image" src="https://github.com/HAFIDJR/challange-chapter4-binar/assets/99538056/513935f0-450f-4537-ae66-347f74f870b6">
+   <img width="411" alt="image" src="https://github.com/HAFIDJR/challange-chapter4-binar/assets/99538056/caa17295-091e-48e1-ba90-b18af7d84449">
    <br>
-
+   
   </div>  
 </ul>
