@@ -66,14 +66,17 @@ juga pengirim dan penerimanya).<br>
 <ul>
   <div>
     <h1> API Accounts</h1>
-    <li> menambahkan user baru beserta dengan profilnya </li>
-    <img width="411" alt="image" src="https://github.com/HAFIDJR/challange-chapter4-binar/assets/99538056/e0fe0f6d-8960-4e5e-a8f0-d7386c4a6357"><br>
-    <img width="411" alt="image" src="https://github.com/HAFIDJR/challange-chapter4-binar/assets/99538056/14cb1459-6f69-46b6-a420-9ac2d72b3bd1"><br>
-
-   <li> Menampilkan Semua User</li>
-   <img width="411" alt="image" src="https://github.com/HAFIDJR/challange-chapter4-binar/assets/99538056/5e991b1e-a944-42a5-90ad-2418b9e7e81d">
+   
+   <li> Membuat Account Baru</li>
+   <img width="411" alt="image" src="https://github.com/HAFIDJR/challange-chapter4-binar/assets/99538056/73065fd9-e30d-4898-bcef-1b20bccea369">
    <br>
-   <img width="411" alt="image" src="https://github.com/HAFIDJR/challange-chapter4-binar/assets/99538056/23571ad8-19bb-4372-9e9c-97f9da620d51">
+   <img width="411" alt="image" src="https://github.com/HAFIDJR/challange-chapter4-binar/assets/99538056/ab55986f-117f-4237-90b7-8ce992f372c8">
+   <br>
+
+   <li> Menampilkan Semua Account</li>
+   <img width="411" alt="image" src="https://github.com/HAFIDJR/challange-chapter4-binar/assets/99538056/d402cddb-51bc-4e9c-a55b-af6c06f9d474">
+   <br>
+   <img width="411" alt="image" src="https://github.com/HAFIDJR/challange-chapter4-binar/assets/99538056/89956f93-f272-4b9d-8e93-48385411b5bd">
    <br>
    
    <li>Menampilkan Users Detail </li>
