@@ -94,21 +94,22 @@ juga pengirim dan penerimanya).<br>
    <li> Membuat Transactions Baru</li>
    <img width="411" alt="image" src="https://github.com/HAFIDJR/challange-chapter4-binar/assets/99538056/72d58bdc-412c-4007-b4ab-bd10ed412085">
    <br>
-   <img width="411" alt="image" src="https://github.com/HAFIDJR/challange-chapter4-binar/assets/99538056/73065fd9-e30d-4898-bcef-1b20bccea369">
-   <br>
-   <img width="411" alt="image" src="https://github.com/HAFIDJR/challange-chapter4-binar/assets/99538056/ab55986f-117f-4237-90b7-8ce992f372c8">
+   <img width="411" alt="image" src="https://github.com/HAFIDJR/challange-chapter4-binar/assets/99538056/b1cae7bf-4c67-4f8e-ab50-8a8d64419f34">
+
    <br>
 
    <li> Menampilkan Semua Transactions</li>
-   <img width="411" alt="image" src="https://github.com/HAFIDJR/challange-chapter4-binar/assets/99538056/d402cddb-51bc-4e9c-a55b-af6c06f9d474">
+   <img width="411" alt="image" src="https://github.com/HAFIDJR/challange-chapter4-binar/assets/99538056/7dacb89c-288a-48a8-9d16-63b11b18dbaa">
+
    <br>
-   <img width="411" alt="image" src="https://github.com/HAFIDJR/challange-chapter4-binar/assets/99538056/89956f93-f272-4b9d-8e93-48385411b5bd">
+   <img width="411" alt="image" src="https://github.com/HAFIDJR/challange-chapter4-binar/assets/99538056/efd8387b-5c99-4e30-9ab0-01b3ca0bb144">
+
    <br>
    
    <li>Menampilkan Transactions Detail </li>
-   <img width="411" alt="image" src="https://github.com/HAFIDJR/challange-chapter4-binar/assets/99538056/03fbe868-c6af-4b61-a0ac-2572f19a7823">
+   <img width="411" alt="image" src="https://github.com/HAFIDJR/challange-chapter4-binar/assets/99538056/36c8d0b9-33d1-4785-bd6d-62a360c4de82">
    <br>
-   <img width="411" alt="image" src="https://github.com/HAFIDJR/challange-chapter4-binar/assets/99538056/caa17295-091e-48e1-ba90-b18af7d84449">
+   <img width="411" alt="image" src="https://github.com/HAFIDJR/challange-chapter4-binar/assets/99538056/4cba055a-6289-479e-81c2-15cbc61f8ba5">
    <br>
    
   </div>  
